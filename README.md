@@ -1,6 +1,7 @@
 
 # diabetes_prediction
-
+https://diabetesprediction-lnkr8gdpwkpysewfpjgxyn.streamlit.app/
+LIVE URL LINK OF APP
 # diabetes_prediction
 Preview of the Project
 
