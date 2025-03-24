@@ -6,3 +6,4 @@ matplotlib
 seaborn
 plotly
 Pillow>=9.0.0
+openai
